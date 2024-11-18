@@ -1,2 +1,3 @@
 # Trainingcp
 gitsession
+yes
